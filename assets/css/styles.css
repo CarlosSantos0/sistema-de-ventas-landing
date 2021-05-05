@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.big-circle {
+  width: 105%;
+  height: 100%;
+  position: absolute;
+  background-color: var(--bs-primary);
+  border-radius: 50%;
+  top: 40%;
+  z-index: 0;
+}
+
+.image-landing {
+  z-index: 1;
+}
+
+.features {
+  z-index: 1;
+}
+
